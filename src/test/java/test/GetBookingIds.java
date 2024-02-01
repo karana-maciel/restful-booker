@@ -41,6 +41,7 @@ public class GetBookingIds extends BaseTest{
     }
 
 
+
     @Test
     @DisplayName("Buscar reserva pelo ID - 404")
     void getBookingIdFail() {
