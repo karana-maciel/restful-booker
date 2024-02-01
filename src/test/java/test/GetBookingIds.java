@@ -40,6 +40,7 @@ public class GetBookingIds extends BaseTest{
        // assertEquals(not null); para cada campo da resposta
     }
 
+
     @Test
     @DisplayName("Buscar reserva pelo ID - 404")
     void getBookingIdFail() {
